@@ -3,6 +3,9 @@ VLD c++ memory leak tool
 
 https://vld.codeplex.com/documentation
 
+Umdhtools.exe: How to use Umdh.exe to find memory leaks
+https://support.microsoft.com/en-us/kb/268343
+
 Kr2eD+5ASU5OjIBrvBjvoGidEN5fgp4i/xIscc
 shDL/gbfD2hrAHEgKvw6zetwP2zozM4TUqR/Ir
 FoOaet+k6g+WIPEK29yxwgVa7oHLuq3kV57c/c
