@@ -1,3 +1,15 @@
+#161115
+
+MD5 vs  SHA256
+https://www.quora.com/What-is-the-best-way-to-create-an-MD5-hash-in-C++
+
+http://stackoverflow.com/questions/1220046/how-to-get-the-md5-hash-of-a-file-in-c
+
+CRC
+
+https://tfetimes.com/c-crc-32/
+http://nchc.dl.sourceforge.net/project/crccalculator/CRC/CRC%20Calculator.zip
+
 # testing-
 VLD c++ memory leak tool
 
