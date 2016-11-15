@@ -1,6 +1,9 @@
 #161115
 
 MD5 vs  SHA256
+
+http://www.codeproject.com/Articles/462746/A-Cplusplus-SHA-and-MD-Implementation-with-Crypt
+
 https://www.quora.com/What-is-the-best-way-to-create-an-MD5-hash-in-C++
 
 http://stackoverflow.com/questions/1220046/how-to-get-the-md5-hash-of-a-file-in-c
