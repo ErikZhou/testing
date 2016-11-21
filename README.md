@@ -1,3 +1,9 @@
+#161121
+
+ANN BP
+http://www.cnblogs.com/luxiaoxun/archive/2012/12/10/2811309.html
+
+
 #161115
 
 MD5 vs  SHA256
