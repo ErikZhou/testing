@@ -1,3 +1,7 @@
+##161122
+Deep Learning
+https://cn.udacity.com/course/machine-learning-engineer-nanodegree--nd009
+
 #161121
 
 ANN BP
