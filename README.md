@@ -4,6 +4,8 @@ https://prx.im/
 
 http://slicerrt.github.io/
 
+https://classroom.udacity.com/nanodegrees/nd009/parts/0091345400/modules/009134540075460/lessons/5402929278/concepts/54776097980923#
+
 ====TOP====
 ##161122
 Deep Learning
