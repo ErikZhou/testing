@@ -23,6 +23,10 @@ Shared memory is the fastest interprocess communication mechanism.
 A Simple Wrapper for Sharing Data Structures Between Processes
 https://www.codeproject.com/articles/1362/a-simple-wrapper-for-sharing-data-structures-betwe
 
+WebSockets
+Methods for Real-Time Data Streaming
+https://os.alfajango.com/websockets-slides/#/
+
 ##161122
 Deep Learning
 https://cn.udacity.com/course/machine-learning-engineer-nanodegree--nd009
