@@ -15,9 +15,13 @@ https://msdn.microsoft.com/en-us/library/windows/desktop/aa365574(v=vs.85).aspx
 
 Sharing memory between processes
 http://www.boost.org/doc/libs/1_54_0/doc/html/interprocess/sharedmemorybetweenprocesses.html
+
 What is shared memory?
 
 Shared memory is the fastest interprocess communication mechanism. 
+
+A Simple Wrapper for Sharing Data Structures Between Processes
+https://www.codeproject.com/articles/1362/a-simple-wrapper-for-sharing-data-structures-betwe
 
 ##161122
 Deep Learning
