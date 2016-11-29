@@ -7,6 +7,18 @@ http://slicerrt.github.io/
 https://classroom.udacity.com/nanodegrees/nd009/parts/0091345400/modules/009134540075460/lessons/5402929278/concepts/54776097980923#
 
 ====TOP====
+
+## 161129
+
+Interprocess Communications
+https://msdn.microsoft.com/en-us/library/windows/desktop/aa365574(v=vs.85).aspx
+
+Sharing memory between processes
+http://www.boost.org/doc/libs/1_54_0/doc/html/interprocess/sharedmemorybetweenprocesses.html
+What is shared memory?
+
+Shared memory is the fastest interprocess communication mechanism. 
+
 ##161122
 Deep Learning
 https://cn.udacity.com/course/machine-learning-engineer-nanodegree--nd009
