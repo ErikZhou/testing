@@ -1,4 +1,4 @@
-====TOP====
+====TOP TODO====
 
 https://prx.im/
 
@@ -6,12 +6,13 @@ http://slicerrt.github.io/
 
 https://classroom.udacity.com/nanodegrees/nd009/parts/0091345400/modules/009134540075460/lessons/5402929278/concepts/54776097980923#
 
-====TOP====
+====TOP TODO====
 
 ##20170605
 
 =====Links======
 https://webassembly.org/roadmap/
+
 WebAssembly Consensus
 WebAssembly CG members representing four browsers, Chrome, Edge, Firefox, and WebKit, have reached consensus that the design of the initial (MVP) WebAssembly API and binary format is complete to the extent that no further design work is possible without implementation experience and significant usage. This marks the end of the Browser Preview and signals that browsers can begin shipping WebAssembly on-by-default. From this point forward, future features will be designed to ensure backwards compatibility.
 01：一文入门谷歌深度学习框架Tensorflow
