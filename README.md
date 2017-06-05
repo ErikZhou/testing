@@ -25,6 +25,8 @@ http://www.boost.org/doc/libs/1_51_0/doc/html/boost_asio/examples.html
 
 ## 20170605
 
+# This file requires _WIN32_WINNT to be #defined at least to 0×0403
+http://www.xuebuyuan.com/2177729.html
 
 
 ## 20161129
