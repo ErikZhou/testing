@@ -5,12 +5,9 @@ Open-source radiation therapy research toolkit for 3D Slicer
 http://slicerrt.github.io/
 
 https://classroom.udacity.com/nanodegrees/nd009/parts/0091345400/modules/009134540075460/lessons/5402929278/concepts/54776097980923#
+申城「三日谈」：言汇百家，思通以达（SDCC 2017上海站PPT集锦）
 
-====TOP TODO====
-
-## 20170605
-
-=====Links======
+http://geek.csdn.net/news/detail/193172
 
 https://webassembly.org/roadmap/
 
@@ -24,7 +21,11 @@ http://blog.csdn.net/cordova/article/details/52485909
 http://ogldev.atspace.co.uk/
 
 http://www.boost.org/doc/libs/1_51_0/doc/html/boost_asio/examples.html
-=====Links======
+====TOP TODO====
+
+## 20170605
+
+
 
 ## 20161129
 
