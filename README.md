@@ -8,6 +8,22 @@ https://classroom.udacity.com/nanodegrees/nd009/parts/0091345400/modules/0091345
 
 ====TOP====
 
+##20170605
+
+=====Links======
+https://webassembly.org/roadmap/
+WebAssembly Consensus
+WebAssembly CG members representing four browsers, Chrome, Edge, Firefox, and WebKit, have reached consensus that the design of the initial (MVP) WebAssembly API and binary format is complete to the extent that no further design work is possible without implementation experience and significant usage. This marks the end of the Browser Preview and signals that browsers can begin shipping WebAssembly on-by-default. From this point forward, future features will be designed to ensure backwards compatibility.
+01：一文入门谷歌深度学习框架Tensorflow
+http://blog.csdn.net/sinat_33761963/article/details/56286408
+
+【一步步学OpenGL 1】-《打开一个窗口》
+http://blog.csdn.net/cordova/article/details/52485909
+http://ogldev.atspace.co.uk/
+
+http://www.boost.org/doc/libs/1_51_0/doc/html/boost_asio/examples.html
+=====Links======
+
 ## 161129
 
 Interprocess Communications
