@@ -23,6 +23,9 @@ http://ogldev.atspace.co.uk/
 http://www.boost.org/doc/libs/1_51_0/doc/html/boost_asio/examples.html
 ====TOP TODO====
 
+## 20170608
+https://www.petri.com/disable_uac_in_windows_vista
+
 ## 20170605
 
 # This file requires _WIN32_WINNT to be #defined at least to 0×0403
