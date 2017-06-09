@@ -23,6 +23,23 @@ http://ogldev.atspace.co.uk/
 http://www.boost.org/doc/libs/1_51_0/doc/html/boost_asio/examples.html
 ====TOP TODO====
 
+## 20170609
+# if defined(_WIN32)
+#define DECLARE_APPSERVER(CLASS_NAME) \
+    extern "C" \
+{ \
+    __declspec(dllexport) tps::server::IRtAppServer* getAppServerInstance(); \
+};
+
+#define IMPLEMENT_APPSERVER(CLASS_NAME) \
+    __declspec(dllexport) tps::server::IRtAppServer* getAppServerInstance() \
+{\
+    tps::server::IRtAppServer* pApp = static_cast<tps::server::IRtAppServer*>(new CLASS_NAME##()); \
+    return pApp; \
+}
+
+# endif
+
 ## 20170608
 https://www.petri.com/disable_uac_in_windows_vista
 
