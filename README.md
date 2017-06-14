@@ -23,6 +23,13 @@ http://ogldev.atspace.co.uk/
 http://www.boost.org/doc/libs/1_51_0/doc/html/boost_asio/examples.html
 ====TOP TODO====
 
+## 20170614
+# boost::split performance issue
+# call back
+http://partow.net/programming/templatecallback/
+
+http://www.tedfelix.com/software/c++-callbacks.html
+
 ## 20170609
 # if defined(_WIN32)
 #define DECLARE_APPSERVER(CLASS_NAME) \
