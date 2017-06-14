@@ -30,6 +30,8 @@ http://partow.net/programming/templatecallback/
 
 http://www.tedfelix.com/software/c++-callbacks.html
 
+https://stackoverflow.com/questions/2298242/callback-functions-in-c
+
 ## 20170609
 # if defined(_WIN32)
 #define DECLARE_APPSERVER(CLASS_NAME) \
