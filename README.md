@@ -22,8 +22,13 @@ http://ogldev.atspace.co.uk/
 
 http://www.boost.org/doc/libs/1_51_0/doc/html/boost_asio/examples.html
 ====TOP TODO====
+## 20170619
+
+#前沿技术资料百度云链接(资料共享)
+http://blog.csdn.net/fjssharpsword/article/details/53155634?locationNum=14&fps=1
 
 ## 20170614
+
 # boost::split performance issue
 # call back
 http://partow.net/programming/templatecallback/
