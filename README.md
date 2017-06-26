@@ -26,6 +26,10 @@ http://www.boost.org/doc/libs/1_51_0/doc/html/boost_asio/examples.html
 ====TOP TODO====
 
 ## 20170626
+放射治疗计划设计进入人工智能时代
+http://www.medsoso.cn/article/402.html
+https://www.varian.com/sites/default/files/resource_attachments/CN_ARIA_Brochure.pdf
+
 TCP Servers:
 Offloading TCP Processing in Internet Servers.
 Design, Implementation, and Performance
