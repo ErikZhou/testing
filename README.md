@@ -26,6 +26,11 @@ http://www.boost.org/doc/libs/1_51_0/doc/html/boost_asio/examples.html
 ====TOP TODO====
 
 ## 20170626
+TCP Servers:
+Offloading TCP Processing in Internet Servers.
+Design, Implementation, and Performance
+http://www.cs.ucr.edu/~bhuyan/CS260/LECTURE8.pdf
+
 template <class Class, typename ReturnType, typename Parameter>
         class SingularCallBack
         {
