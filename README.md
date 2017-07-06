@@ -25,6 +25,10 @@ http://ogldev.atspace.co.uk/
 http://www.boost.org/doc/libs/1_51_0/doc/html/boost_asio/examples.html
 ====TOP TODO====
 
+## 20170706
+# 麦克风没声音
+http://product.pconline.com.cn/itbk/software/win7/1405/4715616.html
+
 ## 20170626
 放射治疗计划设计进入人工智能时代
 http://www.medsoso.cn/article/402.html
