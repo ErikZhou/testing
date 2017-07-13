@@ -25,6 +25,56 @@ http://ogldev.atspace.co.uk/
 http://www.boost.org/doc/libs/1_51_0/doc/html/boost_asio/examples.html
 ====TOP TODO====
 
+
+##	20170713
+-	1.0 CalculateBeamMU
+-	ComposeDoseGrids
+
+-	added new interfaces to main
+http://www.uthgsbsmedphys.org/RadOncRes/11a-MonitorUnitCalculations-1.pdf
+Commissioning a Proton Therapy Machine and TPS
+http://chapter.aapm.org/GLC/media/2012/Park.pdf
+##	20170712
+-	dose rescale and TPS performance meeting
+-	new interfaces
+
+    int CalculateBeamMU ComposeDoseGrids
+-	branch implementation
+##	20170711	week started
+-	PB algorithm
+-	inverse plan of TPS
+-	prepare for ODE planning
+-	matlab TPS
+-	PB algorithm
+-	Dose Manager
+-	Clear Dose Grid from 204ms to 74ms
+
+-	rescale issue
+-	Dose Manager
+##	20170710
+-	Dose Manager
+
+-	Dose Manager
+-	Clear Dose Grid from 204ms to 74ms
+
+Beam and dose modelling in TPS
+http://amos3.aapm.org/abstracts/pdf/77-22581-312436-91356.pdf
+
+##	20170707
+-	Dose Manager
+
+-	Dose Manager
+##	20170706
+-	PB algorithm
+-	prepare for ODE planning
+
+-	Dose Manager
+*	ALG 内部重构
+*	ALG + TPS接口修改
+*
+E:\share\Software\cuda_5.5.20_winvista_win7_win8_general_64>
+setup.exe -log:"C:\path\that\exists" -loglevel:6
+
 ## 20170706
 # 麦克风没声音
 http://product.pconline.com.cn/itbk/software/win7/1405/4715616.html
