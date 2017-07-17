@@ -24,7 +24,11 @@ http://ogldev.atspace.co.uk/
 
 http://www.boost.org/doc/libs/1_51_0/doc/html/boost_asio/examples.html
 ====TOP TODO====
+## 20170717
 
+https://en.wikipedia.org/wiki/Monitor_unit
+1 Gy = 100 cGy
+https://www.unitjuggler.com/convert-absorbeddose-from-Gy-to-cGy.html
 
 ##	20170713
 -	1.0 CalculateBeamMU
