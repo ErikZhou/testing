@@ -1,6 +1,11 @@
 
 ## CUDA
 
+## 20170719
+
+printf in CUDA
+https://stackoverflow.com/questions/15669841/cuda-hello-world-printf-not-working-even-with-arch-sm-20
+
 ## 20170717
 
 CUDA编程快速入门
