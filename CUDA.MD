@@ -8,6 +8,8 @@ https://stackoverflow.com/questions/15669841/cuda-hello-world-printf-not-working
 
 http://users.wfu.edu/choss/CUDA/docs/Lecture%205.pdf
 
+http://www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf
+
 ## 20170717
 
 CUDA编程快速入门
