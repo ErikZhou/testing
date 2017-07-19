@@ -6,6 +6,8 @@
 printf in CUDA
 https://stackoverflow.com/questions/15669841/cuda-hello-world-printf-not-working-even-with-arch-sm-20
 
+http://users.wfu.edu/choss/CUDA/docs/Lecture%205.pdf
+
 ## 20170717
 
 CUDA编程快速入门
