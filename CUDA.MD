@@ -10,6 +10,8 @@ http://users.wfu.edu/choss/CUDA/docs/Lecture%205.pdf
 
 http://www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf
 
+https://engineering.purdue.edu/~eigenman/app/omp2gpu-upc2011.pdf
+
 ## 20170717
 
 CUDA编程快速入门
