@@ -1,9 +1,14 @@
 
 ## CUDA
 
+## 20170724
+
+https://stackoverflow.com/questions/12374246/use-host-function-on-device
+
 ## 20170719
 
 printf in CUDA
+
 https://stackoverflow.com/questions/15669841/cuda-hello-world-printf-not-working-even-with-arch-sm-20
 
 http://users.wfu.edu/choss/CUDA/docs/Lecture%205.pdf
