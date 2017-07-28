@@ -23,7 +23,57 @@ http://blog.csdn.net/cordova/article/details/52485909
 http://ogldev.atspace.co.uk/
 
 http://www.boost.org/doc/libs/1_51_0/doc/html/boost_asio/examples.html
+
+## Radiation Oncology Physics:
+A Handbook for Teachers and Students
+E.B. Podgorsak
+Technical Editor
+INTERNATIONAL ATOMIC ENERGY AGENCY
+VIENNA, 2005
+
 ====TOP TODO====
+
+## 20170728
+剂量计算
+1.解析方法或经验方法，如卷积（Convolution)、叠加 (Superposition)、笔形束(Pencil Beam)等
+优点：速度快
+缺点：精度差。人体内部射线散射及次级辐射过程的复杂性难以准确计算，或射线传输中电子失衡等物理过程的影响，特别在低密度或高密度的不均匀组织（气腔或致密骨）和靠近不同组织分界面附近表现更为突出，剂量计算误差可达11％～32％
+
+2.  统计模拟方法，如蒙特卡罗(Monte Carlo)
+优点：通过随机模拟大量粒子与物质相互作用的物理全过程，可以准确计算射束与介质作用后的能量沉积，反映了最真实的剂量分布。计算精度误差可以小于1%，结果相对更加精确，所以被业界认为是最精确的一种剂量计算方法
+缺点：通常速度慢
+
+逆向优化方法
+逆向优化方法是根据医生或物理师给定的目标进行逆向求解、迭代优化，最终获得满足给定条件的治疗方案的方法。TPS的逆向优化方法一般包括：
+
+通量图优化（FMO）：针对IMRT，将方案转换为单目标问题，根据目标优化出理想照射条件下的通量分布，优化速度快，需要经过叶片序列优化为多叶准直器形状分布，可能存在转换误差。
+ 叶片序列优化（Leaf Sequencing）：可实施step and shoot 和sliding window两种不同模式的治疗。
+
+直接子野优化（DAO）：针对IMRT，将方案转换为单目标问题，考虑机器约束，根据目标优化出可供多叶准直器直接执行的治疗方案，误差小，优化速度慢。
+
+子野权重优化（SWO）：针对适形放疗（CRT），将方案转换为单目标问题，用于对三维适形计划进行微调。
+
+多目标优化（MCO）：放疗方案是一个多目标问题，直接求解多目标，获得多个满足条件的方案，医生或物理师根据实际情况进行选取最终方案。
+
+现代放疗技术的主攻方向
+
+影像引导放疗设备（现代加速器标配）
+诊断级影像
+高精度定位与摆位
+
+快速高效的治疗方案
+高剂量率加速器（提高能量、加大馈入功率、FFF模式等）
+自动放疗计划：自动/半自动勾画（atlas based，model based等）、自动计划（algorithm based，knowledge based等）
+智能逆向优化方法（FMO、DAO、SWO、MCO）
+
+高精度治疗计划与实施
+高精度快速剂量计算（Monte Carlo等）
+精确的计划实施设备（MLC等）
+可靠的剂量验证与质量保证（EPID等）
+
+互联网+放疗
+网络化、多中心互联
+大数据、高效工作流布局
 
 ## 20170727
 
