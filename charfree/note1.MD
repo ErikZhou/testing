@@ -1,6 +1,10 @@
 
 # 171120
 
+Dcmtk 在 PACS 开发中的应用  
+
+http://okaimee.blog.163.com/blog/static/17466526820130164320429/
+
 		NumberOfRemainingSubOperations	0	unsigned short
 		NumberOfCompletedSubOperations	7	unsigned short
 		NumberOfFailedSubOperations	0	unsigned short
