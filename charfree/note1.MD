@@ -5,7 +5,7 @@ std::sort
 
 	//sort by instance number
 	
-	auto cmp = [](RtImage img1, RtImage img2)
+	auto cmp = [](obj img1, obj img2)
 	{  
 		return img1.get_instancenumber() < img2.get_instancenumber();
 	};
