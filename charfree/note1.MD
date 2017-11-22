@@ -1,4 +1,14 @@
 
+# 171122
+
+echo copy files to D:\UIH
+xcopy /s /f /q /y include D:\UIH\include\external 
+copy bin D:\UIH\bin
+copy bin_debug D:\UIH\bin_debug
+copy lib D:\UIH\lib\external
+copy lib_debug D:\UIH\lib_debug\external
+
+echo done
 # 171120
 
 Dcmtk 在 PACS 开发中的应用  
