@@ -1,6 +1,9 @@
 
 # 171122
 
+vim
+%s/^M/\r/g
+
 std::sort
 
 	//sort by instance number
