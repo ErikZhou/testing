@@ -2,12 +2,15 @@
 # 171122
 
 std::sort
+
 	//sort by instance number
+	
 	auto cmp = [](RtImage img1, RtImage img2)
 	{  
 		return img1.get_instancenumber() < img2.get_instancenumber();
 	};
 	std::sort(vImageObjList.begin(),vImageObjList.end(),cmp);
+	
 	
 find files
 
