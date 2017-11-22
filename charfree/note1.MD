@@ -1,11 +1,20 @@
 
 # 171122
 
+find files
+
+http://www.boost.org/doc/libs/1_37_0/libs/filesystem/example/simple_ls.cpp
+
 echo copy files to D:\UIH
+
 xcopy /s /f /q /y include D:\UIH\include\external 
+
 copy bin D:\UIH\bin
+
 copy bin_debug D:\UIH\bin_debug
+
 copy lib D:\UIH\lib\external
+
 copy lib_debug D:\UIH\lib_debug\external
 
 echo done
