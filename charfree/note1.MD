@@ -1,4 +1,19 @@
 
+#171124
+
+    std::string fp_start("<LOG_TRACE>");
+    std::string fp_end("</LOG_TRACE>");
+    size_t found_start = logxml.find(fp_start);
+    size_t found_end = logxml.find(fp_end);
+    std::string sValue;
+    if (found_start != std::string::npos &&
+        found_end != std::string::npos)
+    {
+        sValue = logxml.substr(found_start + fp_start.length(), found_end - found_start - fp_start.length());
+    }
+    
+    
+
 # 171123
 
 DICOM医学图像处理：深入剖析Orthanc的SQLite，了解WADO & RESTful API
