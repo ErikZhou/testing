@@ -2,8 +2,16 @@
 
 https://chrome.google.com/webstore/detail/teamviewer-for-chrome/kgnmmljallcdagodpmckgfobgppldmdb?utm_source=chrome-ntp-icon
 
+https://chrome.google.com/webstore/detail/teamviewer-for-chrome/kgnmmljallcdagodpmckgfobgppldmdb?utm_source=chrome-ntp-icon
+
 String crxAddress ="http://clients2.google.com/service/update2/crx?response=redirect&x=id%3D   “+id+”   %26uc%26lang%3Den-US&prod=chrome"
 
+http://clients2.google.com/service/update2/crx?response=redirect&x=id%3Dkgnmmljallcdagodpmckgfobgppldmdb%26uc%26lang%3Den-US&prod=chrome
+
+作者：Coreny
+链接：https://www.zhihu.com/question/21884837/answer/30571474
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 http://clients2.google.com/service/update2/crx?response=redirect&x=id%3Dkgnmmljallcdagodpmckgfobgppldmdb%26uc%26lang%3Den-US&prod=chrome
 
