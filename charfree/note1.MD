@@ -1,4 +1,16 @@
 
+#171129
+
+hosts立即生效的方法
+
+方法一：命令行(cmd)运行:
+
+ipconfig /flushdns     #清除DNS缓存内容。
+
+ipconfig /displaydns    //显示DNS缓存内容
+
+http://www.cnblogs.com/luluping/p/3519746.html
+
 #171128
 
 
