@@ -81,7 +81,7 @@ void usage()
 int main(int argc, char** argv)
 {         
     usage();                                                                       
-    std::string strDir = "\\\\uihzjfs01\\DATA\\uai-portal\\DATA\\Output\\01ph";
+    std::string strDir = "input";
     if (argc < 2)
     {
 
