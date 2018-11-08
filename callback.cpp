@@ -10,20 +10,27 @@ public:
   A() = default;
   ~A() = default;
 
-  void BindCallback(std::function<int(int, int)> fn) {
-    privateCallback = std::bind(fn, std::placeholders::_1, std::placeholders::_2);
-  }
+    void BindCallback(std::function<int(void*,int, int)> fn) 
+    {
+        privateCallback = std::bind(fn, std::placeholders::_1, std::placeholders::_2, std::placeholders::_3);
+    }
 
-  void MakeCallback(int i, int j) {
-    if (privateCallback)
-      std::cout << "Output from callback: " << privateCallback(i, j) << std::endl;
-  }
+    void MakeCallback(int i, int j) 
+    {
+        if (privateCallback)
+           printf("Output from callback: %d\n", privateCallback((void*)m_pCaller, i, j));
+    }
+    void SetCaller(void* pCaller)
+    {
+        m_pCaller = pCaller;
+    }
 
 private:
-  std::function<int(int, int)> privateCallback; //Could do a vector of them, or whatever
+    std::function<int(void*,int, int)> privateCallback;
+    void*   m_pCaller;
 };
 
-int f(int a, int b) {
+int f(void* p, int a, int b) {
   return (a + b);
 }
 
